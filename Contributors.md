@@ -13,6 +13,7 @@
 - [Rudresh Suryawanshi](https://github.com/Rudresh-11)
 - [Clement Zentz](https://github.com/clement-zentz)
 - [Fred](https://github.com/kipkemoifred)
+- [Wagner Andrade](https://github.com/wagnand-moura)
 - [Sahil Gurjar][https://github.com/SG2407]
 - [Vardhan](https://github.com/Chintha-vardhan)
 - [Prince Yadav](https://github.com/warrior-hub)
